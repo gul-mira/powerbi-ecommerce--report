@@ -51,6 +51,8 @@ DAX (Data Analysis Expressions)
 
 Построения модели данных
 
+![Dashboard](https://github.com/gul-mira/powerbi-ecommerce--report/blob/main/%D0%9E%D0%B1%D0%B7%D0%BE%D1%80.png)
+
 Визуализации KPI
 
 Написания DAX-формул
