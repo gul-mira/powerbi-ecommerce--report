@@ -1,0 +1,51 @@
+CustomerID,CustomerName,Gender,Age,City
+C015,Customer_C015,Female,20,Chicago
+C025,Customer_C025,Female,46,Los Angeles
+C013,Customer_C013,Female,43,Houston
+C044,Customer_C044,Female,59,Los Angeles
+C024,Customer_C024,Male,23,New York
+C049,Customer_C049,Female,22,Chicago
+C037,Customer_C037,Female,39,Houston
+C033,Customer_C033,Female,52,Houston
+C046,Customer_C046,Female,54,Miami
+C020,Customer_C020,Male,38,Miami
+C010,Customer_C010,Male,40,Los Angeles
+C008,Customer_C008,Female,48,Houston
+C045,Customer_C045,Female,33,Chicago
+C042,Customer_C042,Female,22,Los Angeles
+C029,Customer_C029,Female,44,Los Angeles
+C001,Customer_C001,Female,21,Los Angeles
+C043,Customer_C043,Male,49,Miami
+C038,Customer_C038,Female,44,Los Angeles
+C036,Customer_C036,Female,41,Los Angeles
+C017,Customer_C017,Female,20,New York
+C048,Customer_C048,Female,41,Miami
+C018,Customer_C018,Female,50,New York
+C031,Customer_C031,Female,48,Los Angeles
+C039,Customer_C039,Female,53,Chicago
+C016,Customer_C016,Male,35,Miami
+C041,Customer_C041,Male,58,New York
+C002,Customer_C002,Male,30,Chicago
+C011,Customer_C011,Female,53,Miami
+C027,Customer_C027,Female,24,New York
+C050,Customer_C050,Female,34,New York
+C026,Customer_C026,Female,57,Chicago
+C014,Customer_C014,Female,33,Chicago
+C006,Customer_C006,Female,53,Miami
+C032,Customer_C032,Male,23,New York
+C005,Customer_C005,Male,33,New York
+C023,Customer_C023,Male,32,New York
+C040,Customer_C040,Male,42,Los Angeles
+C047,Customer_C047,Male,22,Chicago
+C003,Customer_C003,Female,37,Chicago
+C012,Customer_C012,Female,48,Los Angeles
+C022,Customer_C022,Male,27,Los Angeles
+C009,Customer_C009,Female,28,Houston
+C019,Customer_C019,Female,23,New York
+C034,Customer_C034,Female,54,Miami
+C004,Customer_C004,Male,47,New York
+C028,Customer_C028,Male,60,New York
+C030,Customer_C030,Male,58,New York
+C035,Customer_C035,Male,20,Chicago
+C021,Customer_C021,Male,59,Houston
+C007,Customer_C007,Male,55,Houston
